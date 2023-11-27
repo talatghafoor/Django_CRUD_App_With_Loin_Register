@@ -30,7 +30,7 @@ Welcome to the Django Employee Management System! This web application provides 
    ```bash
    git clone https://github.com/talatghafoor/Django_CRUD_App_With_Loin_Register.git
 
-   cd your-repo
+   cd Django_CRUD_App_With_Login_Register
 
    pip install -r requirements.txt
 
