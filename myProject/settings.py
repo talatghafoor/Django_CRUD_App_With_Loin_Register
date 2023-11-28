@@ -121,12 +121,10 @@ USE_TZ = True
 STATIC_URL = 'static/'
 
 # Static files (CSS, JavaScript, images)
-STATIC_URL = '/static/'
+
 
 # Additional locations of static files
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'employee/static'),
-]
+
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
