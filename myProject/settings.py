@@ -72,16 +72,7 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'postgres',
-#         'USER': 'masteruser',
-#         'PASSWORD': '7bTubs9loCbcq30qH6Mc',
-#         'HOST': 'django-crud.cuupuv925nrr.us-east-1.rds.amazonaws.com',
-#         'PORT': '5432'
-#     }
-# }
+
 
 
 # Password validation
